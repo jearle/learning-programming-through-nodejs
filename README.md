@@ -6,9 +6,9 @@ This book will teach you how programming can be useful to the non programmer for
 
 It's simple, programming improves your quality of life by automating tedium and removing redundancy.  I want to show you how unscary the process of writing programs can be.
 
-Writing programs does not need to mean writing the next operating system, the next social network, or even the next brochure-like web page.
+Writing programs doesn't necessarily mean writing the next operating system, video game or the next social network.
 
-If you're a designer, you could write a program that automates exporting pngs/jpgs from PSDs.  If you're a security expert, you can create a lightweight program that parses text files.  If you're a cashier, you could write a program that calculates sale prices for all of that left over halloween candy.
+If you're a designer, you could write a program that automates exporting pngs/jpgs from PSDs.  If you're a security expert, you can create a lightweight program that parses text files.  If you're a cashier, you could write a program that calculates sale prices for left over halloween candy.
 
 If you're a student you could even write a program that calculates the answers to your math homework.  This may sound like cheating, but it actually enforces your understanding.  Plus, you have a means to verify your answers without the aid of a teacher.
 
