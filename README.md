@@ -16,8 +16,6 @@ If your a student you could even write a program that calculates the answer's to
 
 JavaScript is the most prevasive language on the planet.  Learning how to write applications using this language has a low barrier to entry for beginners, and is a skill that transends mediums.  This means you can write server side application, desktop application, mobile applications, command line applications and web applications using the same set of technologies and methodologies.
 
+## Why Node.JS
 
-
-
-
-Math allows you to understand quanity, structure, space and change.  Language allows you to communicate complex ideas to other human beings.  Programming enables the automation of both, freeing your focus from details to the much more imporant conceptual understanding of your problem.
+Node.JS is consistent across all major operating system and sharing software is extremely painless.
