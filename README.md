@@ -18,4 +18,4 @@ JavaScript is the most prevasive language on the planet.  Learning how to write 
 
 ## Why Node.JS?
 
-Node.JS is consistent across all major operating systems and provides a great way to share software.
+Node.JS is consistent across all major operating systems and provides a great way to share programs.
