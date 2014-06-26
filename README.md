@@ -10,7 +10,7 @@ Writing programs doesn't necessarily mean writing the next operating system, vid
 
 If you're a designer, you could write a program that automates exporting pngs/jpgs from PSDs.  If you're a security expert, you can create a lightweight program that parses text files.  If you're a cashier, you could write a program that calculates sale prices for left over halloween candy.
 
-If you're a student you could even write a program that calculates the answers to your math homework.  This may sound like cheating, but it actually enforces your understanding.  Plus, you have a means to verify your answers without the aid of a teacher.
+If you're a student you could even write a program that calculates the answers to your math homework.  This may sound like cheating, but it actually reinforces your understanding of the mathematical concepts.  Plus, you have a means to verify your answers without the aid of a teacher.
 
 ## Why JavaScript?
 
